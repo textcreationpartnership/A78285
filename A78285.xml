@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case stated touching the soveraign's prerogative and the peoples liberty, according to scripture, reason, and the consent of our ancestors. Humbly offered to the right honorable, General Monck, and the officers in the army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78285</idno>
+            <idno type="STC">Wing C1205</idno>
+            <idno type="STC">Thomason E1017_40</idno>
+            <idno type="STC">ESTC R208218</idno>
+            <idno type="EEBO-CITATION">99867187</idno>
+            <idno type="PROQUEST">99867187</idno>
+            <idno type="VID">168833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168833)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case stated touching the soveraign's prerogative and the peoples liberty, according to scripture, reason, and the consent of our ancestors. Humbly offered to the right honorable, General Monck, and the officers in the army.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles King,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 24. 1659."; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Kings and rulers --  Duties --  Early works to 1800.</term>
+               <term>Prerogative, Royal --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168833:1" rendition="simple:additions"/>
+            <p>The Caſe ſtated Touching the <hi>SOVERAIGN'S</hi> PREROGATIVE AND THE Peoples Liberty, According to <hi>Scripture, Reaſon,</hi> and the Conſent of our Anceſtors.</p>
+            <p>Humbly offered to the Right Honorable, GENERAL <hi>MONCK,</hi> And the OFFICERS in the ARMY.</p>
+            <p>
+               <hi>Regi qui perfidus, nulli fidus.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Charles King.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168833:2"/>
+            <pb n="3" facs="tcp:168833:2"/>
+            <head>The CASE ſtated, Touching the SOVEREIGNS PREROGATIVE AND The Subjects Liberty.</head>
+            <p>TO plead preciſely for the Soveraigns Prero<g ref="char:EOLhyphen"/>gative, is very neceſſary to be acquainted with the Subjects Liberty, for otherwiſe, like the counterfeit Mother, the Child ſhould be divided, but not aright; by which means I ſhould incur the hazard of every Extreme, and in ſtead of being free, carried with a kinde of violence, which would operate improperly: therefore a ſound and well-ordered judgement, which is ever deliberate, can never be conver<g ref="char:EOLhyphen"/>ſant in ſuch Extremes, but is ever free to gives its true weight and meaſure to all Proceedings.</p>
+            <p>What barbarous Cruelties, irreligious Policies, and merci<g ref="char:EOLhyphen"/>leſs Practiſes the late Rebellion hath brought forth, I ſhall leave to others to diſcover, whoſe diſtractions are fewer; my preſent ſtorm and Tempeſt of Misfortune having continued ſo long time, that <hi>quocunque aspicio nihil eſt niſi pontus &amp; aer.</hi>
+            </p>
+            <p>Yet becauſe I infinitely diſlike to be leſs than what a Sub<g ref="char:EOLhyphen"/>ject ought to be, and am a real lover of my Countrey, and would have the Laws eſtabliſhed, and put in execution, I will render to <hi>Caeſar</hi> his due, in oppoſition to the great diſtur<g ref="char:EOLhyphen"/>bers
+<pb n="4" facs="tcp:168833:3"/>of the true Peace and Tranquility of the Kingdom, per<g ref="char:EOLhyphen"/>ſwading my ſelf I ſhall at one inſtant make two ſorts of peo<g ref="char:EOLhyphen"/>ple glad.</p>
+            <p>In the firſt place, it behoves the Subject to take notice, That the Kings Authority is <hi>Jure Divino,</hi> he is ſet over us by God himſelf, he hath not his Reign or Crown by our fa<g ref="char:EOLhyphen"/>vour; for, ſayes God, <hi>By me Kings Reign,</hi> it is plainly not by us: <hi>Yea, by me Princes decree Juſtice;</hi> and yet for all that, ſome men will have a Court of Juſtice upon Earth a<g ref="char:EOLhyphen"/>bove him, though in that caſe the Scripture is plain and poſi<g ref="char:EOLhyphen"/>tive, That were he never ſo wicked, he is not to be dealt withall according to his deſervings, <hi>Jeremy</hi> 27.5, 6, <hi>&amp;c.</hi> Where you may ſee how ſtrictly God commands this proud Tyrant to be honoured, for no other cauſe, but becauſe <hi>He</hi> had given him his Kingdom; he obtained it therefore by Divine Decree, which is is unlawful to violate, the worſt having been Eſtabliſhed by the ſame Decree that the beſt Kings are: To whomſoever the Kingdom is devolved, he is certainly to be obeyed; and as ſoon as he is advanced to Kingly Dignity, God therein teſtifies he would have them Reign. Behold the Iſraelites, ſpoil'd of their Goods, Hou<g ref="char:EOLhyphen"/>ſes, and whatſoever was dear and near unto them, led a<g ref="char:EOLhyphen"/>way into Exile, (not Exiling their Prince!) and miſerable Bondage, yet commanded by God himſelf to pray for the Conqueror, not as we ought to pray for our Enemies, but that the Kingdom may remain in Peace and Tranquility, that they alſo might live proſperouſly under him: Doubtleſs therefore the Duty of Subjects towards their King, is not onely to ſpeak honorably of him, but to live and die for their King, although the diſobedience of Supreme Rebels have taught the inferior, Juglings, Impoſtures, and meer Deluſions.</p>
+            <p>The King is the Head of the People, there is a Sacred and near relation betwixt them; a diſeaſe or pain in the Head, cauſeth a Dyſcracy in the whole Body, an Indiſpoſition throughout the whole Members; ſo that the Calamities of a King affect every honeſt man in his Kingdom. <hi>Ammon</hi>
+               <pb n="5" facs="tcp:168833:3"/>was a moſt wicked and idolatrous Prince, yet God puniſhed the Treaſon of his Servants againſt him, 2 <hi>Kings</hi> 21. Saint <hi>Ambroſe</hi> unto <hi>Valentinian,</hi> ſayes, <hi>Princeps Legibus ſolutus;</hi> That the King is free from the power of the Law, (is a Maxime as old as Chriſtianity) that is, from the penalties of it. Laws have onely a Directive, no Coercive Power over him: Though not as a Moral man, yet in his Politick Con<g ref="char:EOLhyphen"/>ſiderations he is above the Law; <hi>Divino ſunt judicio reſer<g ref="char:EOLhyphen"/>vandi Reges,</hi> Kings ſtand or fall unto their own Maſter, GOD; <hi>Satis eſt ad poenam quod Deum habeamus ultorem,</hi> It is ſufficient that God will puniſh their Crimes, he is the onely Judge. See the Spirit of <hi>David</hi> againſt <hi>Saul,</hi> he re<g ref="char:EOLhyphen"/>fers his injuries to be remedied by the high Court of Juſtice, 1 <hi>Samuel</hi> 24.12. How is the Happineſs of a Kingdom twiſted with the welfare of a Religious King? How cloſe doth the Ruine of a People follow the loſſe of a pious Prince? A good King is a Rampire and Security unto his Kingdom; that being ſlighted, the deſtruction is eaſily un<g ref="char:EOLhyphen"/>dertaken — <hi>Foelices nimium bon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſi ſua norint.</hi> But who ſo apt to undermine theſe their own Fortifications, as the People themſelves? A King in his Kingdom is <hi>Sole Deo mi<g ref="char:EOLhyphen"/>nor,</hi> and therefore above his Subjects. Kings are Nurſing Fathers, Queens are Nurſing Mothers, the onely righteous Juſticers, Protectors, and Conſervators of our Liberty and Safety. Does not <hi>Paul</hi> (and ſhall others think themſelves wiſer) bid the people obey <hi>Nero</hi> the bloody Tyrant for Con<g ref="char:EOLhyphen"/>ſcience ſake, an Idolatrous Perſecutor as the King of <hi>Babel</hi> was; ſo that, <hi>Preces &amp; lachrymae ſunt arma Eccleſiae,</hi> not to put him to death, not to try him Judicially; the whole Scri<g ref="char:EOLhyphen"/>pture affording no inſtance or example for ſuch Actions, but the contrary.</p>
+            <p>Princes are like the Bond of Wedlock, once make them the Fathers of our Countrey, and we take them <hi>for better for worſe:</hi> We may perſwade them, we cannot compel them without breach of Divine Precepts; once let them be the <hi>Lords Anointed,</hi> and it is Sacriledge to touch them; I mean
+<pb n="6" facs="tcp:168833:4"/>unfittingly. The Common People made <hi>Caeſars,</hi> but being once made, it was utterly our of their power to unmake them again; nothing could do it but Death. And if a King ſhould break an Oath made by him to his People, for a right govern<g ref="char:EOLhyphen"/>ing according to his Laws; yet, under favour, his breach quitteth not his Subjects of their Allegiance: And if this ſtand not for a Truth, for my part, I do not know by what Prin<g ref="char:EOLhyphen"/>ciple any man can walk; for deſtroy but this Foundation, and then your Anti-governiſts will alwayes finde ſtarting holes, upon the leaſt diſcontent to ſhake off that Yoke, which is un<g ref="char:EOLhyphen"/>doubtedly laid upon every Subject, as a neceſſary. Tye of their Obedience and Loyalty to their Soveraign, and that even as they tender the peace and quiet of a good Conſcience. For, though God permitted the people to work Treaſon againſt King <hi>Amaziah,</hi> becauſe it is there expreſt, <hi>He turned away from the Lord his God;</hi> yet I truſt no man can deny but that, it was Treaſon ſtill in the People: So that Princes, though they be <hi>Nero's</hi> and <hi>Caligula's,</hi> are not to be rebelled againſt, neither by the Real Sword, nor by the Metaphorical one, the Tongue; that is, neither by Speech nor Action. It is not for nought that the Apoſtle doth ſo inſeparably knit thoſe two together, <hi>Fear God, Honour the King;</hi> as if he ſhould have ſaid, None can give that honour to the King as he ought, ex<g ref="char:EOLhyphen"/>cept he be one that truly feareth God; and none can truly fear God as he ought, if he give not the honour due to his Prince, whoſe Soveraign Prerogative is undoubtedly his, as our Eſtates are ours, and by as firm a Law.</p>
+            <p>Having ſpoken concerning the Kings Prerogative, I ſhall now inſiſt upon the Liberty of the Subject, and ſhew how it is preſerved from the Inundations of the Royal Prerogative, in caſe of ſuch Invaſion. The ancient Liberties of the Peo<g ref="char:EOLhyphen"/>ple of <hi>England,</hi> chiefly reſided in their Freedom of Parlia<g ref="char:EOLhyphen"/>ments; and being there ſo inviolably ſeated, are ſecured unto the People by <hi>The Petition of Right, Magna Charta,</hi> and the grand Bulwark of <hi>the Laws:</hi> Theſe ſo providing for the Peo<g ref="char:EOLhyphen"/>ples Rights that though the King and Lords had their Nega<g ref="char:EOLhyphen"/>tives
+<pb n="7" facs="tcp:168833:4"/>in making Laws; yet no Tax might be impoſed but by conſent of the Commons, nor any Law (without them of ſuch validity, that the Miniſters of Juſtice durſt inforce the execu<g ref="char:EOLhyphen"/>tion thereof. And though indeed the King had the Power of making War, yet he had not the Means; and ſo it ſignified no more, than giving him leave to fly, if he could get wings: He had a Sword, but he (alone) could never draw it; for the Trained-Bands were a Weapon which he decently wore, but the Nation onely could uſe: And the Power of relieving his Wants reſting in the Commons, muſt neceſſarily ballance the Power of his Will, and oblige him to a correſpondence with Parliaments.</p>
+            <p>The Soveraigns Prerogative and Subjects Liberty, are an excellent ſtrengthning of our <hi>Meum</hi> and <hi>Tuum</hi> in the world. I conceive and conclude this Kingdom much happier, if they go (like <hi>Hippocrates</hi> Twins) hand in hand. It was a good ſpeech, though from a bad man (I ſhall believe the Devil when he ſpeaks truth) <hi>This Kingdom will never be happy, unleſs there be a right Underſtanding between the King and his People.</hi> Yet certain it is, the People never enjoyed grea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Immuni<g ref="char:EOLhyphen"/>ties, Priviledges and Encouragements in Trading both at home and abroad, than under our Kings; never more Mercy ex<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<g ref="char:EOLhyphen"/>ed, Juſtice adminiſtred, Uſurpations <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bed, Happineſs lived under, until too much Plenty and Wantonneſs <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in ab<g ref="char:EOLhyphen"/>horrency of <hi>That</hi> the greateſt part of the three Nations are now ſo paſſionate and impatient after; knowing, that as there hath been more Treaſure ſqueezed out of them for ſixteen years paſt, than by all the Kings, Princes and Queens of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> foregoing: ſo their ancient and undoubted Liberties were never more infringed that ſince they have made, or ſuffered, both their Kings, Lords and Prieſts to be of the meaneſt of the People. I ſhould expatiate in theſe particulars, but I re<g ref="char:EOLhyphen"/>fer the Reader to an ingenious piece, entituled, <hi>A Plea for limited Monarchy,</hi> where the Subjects Liberty is more at large demonſtrated; and to <hi>Englands Faiths Defender vindicated,</hi> viz. <hi>CHARLES</hi> II.</p>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:168833:5"/>
+            <head>
+               <g ref="char:V">Ʋ</g>pon the Kings <hi>PREROGATIVE</hi> and <hi>PERSON.</hi>
+            </head>
+            <l>
+               <hi>PRerogative</hi> and <hi>Perſon,</hi> both were free</l>
+            <l>From Subjects Malice and Malignity;</l>
+            <l>Till haughry Rebels, illegitimate</l>
+            <l>From true Obedience, chang'd our ſetled State</l>
+            <l>From Sacred Kingſhip, leaving no Spark</l>
+            <l>Of Light in Government: All clouded, dark,</l>
+            <l>Like the firſt <hi>Chaos;</hi> full of dire Confuſion,</l>
+            <l>No Spirit mov'd, but that of <hi>ſtrong Deluſion:</hi>
+            </l>
+            <l>Whoſe Helliſh Breath drave us to Wars, and Murther,</l>
+            <l>Ev'n of our <hi>Sacred Maſter;</hi> Nay, went further,</l>
+            <l>We Baniſh'd into Exile, <hi>HIM,</hi> whom now</l>
+            <l>Upon our ſecond thoughts, we fain would bow</l>
+            <l>Unto, and Worſhip, if he would permit</l>
+            <l>Himſelf (as Idol) on His Throne to ſit.</l>
+            <l>Which thing he hates: For the Decree of God</l>
+            <l>Ordains, that Rebels ought to kiſs the Rod.</l>
+            <l>Therefore embrace your Sov'raign, and Proclaim</l>
+            <l>Him <hi>Lawful King;</hi> and ſo blot out your Shame.</l>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
